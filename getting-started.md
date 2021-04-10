@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started with Bookish Lamp
 
 ## Getting Super Powers
 
