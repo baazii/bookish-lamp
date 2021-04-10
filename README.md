@@ -8,3 +8,7 @@ description: Guide to bookish lamp
 
 This is a test page. Let's add more content.
 
+## Support Requests
+
+Send your support requests to me.
+
